@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Priority-Todo/static/css/main.9433b341.chunk.css",
+    "main.js": "/Priority-Todo/static/js/main.114eb5cb.chunk.js",
+    "main.js.map": "/Priority-Todo/static/js/main.114eb5cb.chunk.js.map",
+    "runtime-main.js": "/Priority-Todo/static/js/runtime-main.7699983a.js",
+    "runtime-main.js.map": "/Priority-Todo/static/js/runtime-main.7699983a.js.map",
+    "static/js/2.ebefaafe.chunk.js": "/Priority-Todo/static/js/2.ebefaafe.chunk.js",
+    "static/js/2.ebefaafe.chunk.js.map": "/Priority-Todo/static/js/2.ebefaafe.chunk.js.map",
+    "static/js/3.7ac75c8f.chunk.js": "/Priority-Todo/static/js/3.7ac75c8f.chunk.js",
+    "static/js/3.7ac75c8f.chunk.js.map": "/Priority-Todo/static/js/3.7ac75c8f.chunk.js.map",
+    "index.html": "/Priority-Todo/index.html",
+    "static/css/main.9433b341.chunk.css.map": "/Priority-Todo/static/css/main.9433b341.chunk.css.map",
+    "static/js/2.ebefaafe.chunk.js.LICENSE.txt": "/Priority-Todo/static/js/2.ebefaafe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7699983a.js",
+    "static/js/2.ebefaafe.chunk.js",
+    "static/css/main.9433b341.chunk.css",
+    "static/js/main.114eb5cb.chunk.js"
+  ]
+}
